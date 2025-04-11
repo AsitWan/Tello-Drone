@@ -1,7 +1,5 @@
 # Basic Tello Navigation
 
-
-
 from djitellopy import tello
 nav=tello.Tello()
 nav.connect()
